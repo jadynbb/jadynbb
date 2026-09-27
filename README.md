@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi, I'm Jadyn 👋
+
+I'm a Computer Science student at UCLA interested in **software engineering, artificial intelligence, and human-centered computing**.
+
+I enjoy building software and exploring how intelligent systems can be made more useful, reliable, and accessible.
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jadyn-berlin).
 
 <!--
 **jadynbb/jadynbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
