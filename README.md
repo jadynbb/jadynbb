@@ -1,4 +1,4 @@
-# Hi, I'm Jadyn 👋
+# Hi, I'm Jadyn
 
 I'm a Computer Science student at UCLA interested in **software engineering, artificial intelligence, and human-centered computing**.
 
