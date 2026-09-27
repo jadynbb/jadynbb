@@ -4,7 +4,7 @@ I'm a Computer Science student at UCLA interested in **software engineering, art
 
 I enjoy building software and exploring how intelligent systems can be made more useful, reliable, and accessible.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jadyn-berlin).
+Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/jadyn-berlin) or by email: jadynberlin@gmail.com.
 
 <!--
 **jadynbb/jadynbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
