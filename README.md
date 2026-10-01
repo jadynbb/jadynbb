@@ -6,7 +6,7 @@ I enjoy building software and exploring how intelligent systems can be made more
 
 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/jadyn-berlin) or by email: jadynberlin@gmail.com.
 
-Learn more at **jadynberlin.com**
+Learn more at **[jadynberlin.com]**
 
 <!--
 **jadynbb/jadynbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
